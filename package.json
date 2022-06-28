@@ -1,6 +1,6 @@
 {
   "name": "random-messages-danny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mensajes de string random",
   "main": "src/index.js",
   "scripts": {
